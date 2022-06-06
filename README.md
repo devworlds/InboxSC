@@ -7,3 +7,9 @@ Minha primeira experiência com contrato foi por meio deste, inclusive como ele 
 
 link do etherscan:
 https://rinkeby.etherscan.io/address/0xC6B7600E98d0D0ba4b1AC080097e3D047B78303A
+
+
+funcionalidades:
+
+- Ler variavel de storage.
+- Alterar a varivavel de storage.
